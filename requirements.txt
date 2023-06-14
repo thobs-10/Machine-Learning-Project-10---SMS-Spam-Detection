@@ -1,7 +1,3 @@
 streamlit
 nltk
-<<<<<<< HEAD:requirements
 scikit-learn
-=======
-sklearn
->>>>>>> 87302ed87ceeb55b3ccfd96213b6967d9449e19c:requirements.txt
